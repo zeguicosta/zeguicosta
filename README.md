@@ -1,13 +1,18 @@
-## Oi! Eu sou o José Guilherme
+## Hello! I'm Jose Guilherme
 
-- Atualmente cursando Engenharia de Software na FIAP
-- Aprendendo a desenvolver jogos 2D
+### At the moment
+- Software Engineering FIAP
+- Learning 2D Games Development
 
-<div><br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
+
+<br>
+
+### Skills
+<div>
+  <img align="center" src="https://img.shields.io/badge/Python-0d1116?style=for-the-badge&logo=python&logoColor=white" width="100px"/>
+  <img align="center" src="https://img.shields.io/badge/HTML-0d1116?style=for-the-badge&logo=html5&logoColor=white" width="90px"/>
+  <img align="center" src="https://img.shields.io/badge/CSS-0d1116?&style=for-the-badge&logo=css3&logoColor=white" width="80px"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-0d1116?style=for-the-badge&logo=javascript&logoColor=white" width="140px"/>
 </div>
 
 ##
