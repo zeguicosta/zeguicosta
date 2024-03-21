@@ -13,6 +13,6 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/joseguilhermesipaubacosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseguilhermesipaubacosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
