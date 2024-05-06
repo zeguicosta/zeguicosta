@@ -26,5 +26,5 @@
 
 <div>
   <a href="https://www.linkedin.com/in/joseguilhermesipaubacosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=blue-violet" target="_blank"></a>
+  <a href="https://www.instagram.com/zegui.costa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=blue-violet" target="_blank"></a>
 </div>
