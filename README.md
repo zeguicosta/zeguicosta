@@ -2,7 +2,7 @@
 
 ### At the moment
 - Software Engineering FIAP
-- Learning 2D Games Development
+- Artificial Intelligence Intern
 
 
 <br>
