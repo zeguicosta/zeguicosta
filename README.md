@@ -1,8 +1,9 @@
-## Hello! I'm Jose Guilherme
+## Hello! I'm Guilherme Costa
 
 ### At the moment
 - Software Engineering FIAP
-- Artificial Intelligence Intern
+- AI Intern
+- Founder and Web Developer at VANT – a digital studio focused on high-performance websites
 
 
 <br>
